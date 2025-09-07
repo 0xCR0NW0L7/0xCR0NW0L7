@@ -1,6 +1,6 @@
 ![Header](./header.png)
 # 💫 About Me:
-I'm a dedicated and curious **IT & Network Security enthusiast** 🛡️ with an interest in **VAPT** and **network defense** 🌐.<br>I focus on learning continuously, exploring new tools, and building practical skills through real-world challenges. ⚙️🚀<br>
+I'm a dedicated and curious **IT & Network Security enthusiast** 🛡️ with an interest in **Security Operation Center** and **network defense** 🌐.<br>I focus on continuous learning, exploring new tools, and building practical skills through real-world challenges. ⚙️🚀<br>
 
 
 # 💻 Tech Stack:
